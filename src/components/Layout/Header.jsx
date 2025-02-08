@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header>
       <div>
-        <NavLink to="/">ThapaReactQuery</NavLink>
+        <NavLink to="/">ReactQuery</NavLink>
         <ul>
           <li>
             <NavLink to="/">Home</NavLink>
